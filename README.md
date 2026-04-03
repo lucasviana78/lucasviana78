@@ -1,35 +1,93 @@
-## Prazer em te receber 👨‍💻
+<h1 align="center">
+  Olá, eu sou Lucas Viana
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+</h1>
 
-<div>  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasviana78&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasviana78&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Python+Back-end+Developer;Front-end+nas+horas+vagas;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Tecnologias</h1>
-    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">    
-     <img align="center" height="30" width="40" alt="js-icon" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-    </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: vianalucas812@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/lucas-viana-5a55408a">
-      <img width="25" src="linkedin.svg">
-    </a>    
-    <a href = "https://www.instagram.com/lucasviana78/">
-      <img width="25" src="instagram.png">
-    </a>
+---
+
+## 👨‍💻 Sobre mim
+
+```python
+class LucasViana:
+    nome       = "Lucas Viana"
+    username   = "lucasviana78"
+    pronomes   = "ele/dele"
+    localidade = "Brasil 🇧🇷"
+    foco       = ["Python Back-end (Pleno)", "Django", "DRF", "JavaScript"]
+    hobbies    = ["Código", "Café ☕", "Front-end nas horas vagas"]
+    linkedin   = "linkedin.com/in/lucas-viana-5a55408a"
+```
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+### Back-end
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+
+### Front-end
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </div>
-  
-![Snake animation](https://github.com/lucasviana78/lucasviana78/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasviana78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasviana78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasviana78&theme=tokyonight&hide_border=true" alt="lucasviana78 streak"/>
+</div>
+
+---
+
+## 🏆 Troféus GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucasviana78&theme=tokyonight&no-frame=true&row=1&column=6" alt="trofeus"/>
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-viana-5a55408a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vianalucas812@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasviana78/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/lucasviana78/lucasviana78/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucasviana78&color=F7A800&style=flat-square&label=Visitas+ao+perfil" alt="profile views"/>
+</div>
