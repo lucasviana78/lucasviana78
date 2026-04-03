@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Python+Back-end+Developer;Front-end+nas+horas+vagas;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Python+Back-end+Developer+Pleno;Full+Stack+Developer;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,10 +17,10 @@
 class LucasViana:
     nome       = "Lucas Viana"
     username   = "lucasviana78"
-    pronomes   = "ele/dele"
     localidade = "Brasil 🇧🇷"
-    foco       = ["Python Back-end (Pleno)", "Django", "DRF", "JavaScript"]
-    hobbies    = ["Código", "Café ☕", "Front-end nas horas vagas"]
+    foco       = ["Python Back-end (Pleno)", "Django", "DRF", "JavaScript", "React"]
+    stack      = "Full Stack Developer"
+    email      = "vianalucas812@gmail.com"
     linkedin   = "linkedin.com/in/lucas-viana-5a55408a"
 ```
 
@@ -60,14 +60,6 @@ class LucasViana:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasviana78&theme=tokyonight&hide_border=true" alt="lucasviana78 streak"/>
-</div>
-
----
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucasviana78&theme=tokyonight&no-frame=true&row=1&column=6" alt="trofeus"/>
 </div>
 
 ---
